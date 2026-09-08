@@ -1,5 +1,5 @@
 fastapi==0.115.0
-uvicorn==0.30.0
+uvicorn[standard]==0.30.0
 python-multipart==0.0.9
 pydantic==2.9.0
 email-validator==2.2.0
@@ -10,7 +10,10 @@ networkx==3.3
 python-whois==0.9.4
 dnspython==2.6.1
 transformers==4.44.0
-torch==2.4.0
+torch>=2.13.0
+transformers==4.44.0
+torchvision
+torchaudio
 scikit-learn==1.5.1
 joblib==1.4.2
 numpy==1.26.4
@@ -18,3 +21,4 @@ pandas==2.2.2
 jinja2==3.1.4
 weasyprint==62.3
 geocoder==1.38.1
+python-Levenshtein==0.26.0
