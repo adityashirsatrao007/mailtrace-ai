@@ -1,0 +1,27 @@
+{
+  "name": "mailtrace-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@expo/vector-icons": "^15.1.1",
+    "@react-navigation/bottom-tabs": "^7.18.18",
+    "@react-navigation/native": "^7.3.18",
+    "expo": "~57.0.20",
+    "expo-constants": "~57.0.17",
+    "expo-device": "~57.0.1",
+    "expo-notifications": "~57.0.17",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-gesture-handler": "^3.2.1",
+    "react-native-safe-area-context": "^5.9.1",
+    "react-native-screens": "^4.27.0"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
