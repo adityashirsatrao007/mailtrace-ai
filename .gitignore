@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build
+frontend/dist/
+*.egg-info/
+build/
+*.so
+
+# Virtual environment
+backend/venv/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+backend/data/*.db
+*.sqlite3
+
+# ML artifacts (large files)
+*.bin
+*.safetensors
+*.onnx

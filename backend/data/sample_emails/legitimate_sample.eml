@@ -1,0 +1,28 @@
+From: newsletter@linkedin.com
+To: user@example.com
+Subject: Your weekly job recommendations
+Date: Mon, 01 Sep 2026 09:00:00 +0530
+Message-ID: <newsletter@linkedin.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Received: from mail-relay.linkedin.com (199.59.64.1) by mx.example.com
+    with ESMTP; Mon, 01 Sep 2026 08:59:55 +0530
+Authentication-Results: mx.example.com;
+    spf=pass (domain of linkedin.com designates 199.59.64.1 as permitted sender)
+    dkim=pass header.d=linkedin.com
+    dmarc=pass (p=none) header.from=linkedin.com
+
+Hi there,
+
+Here are your weekly job recommendations based on your profile:
+
+1. Senior Software Engineer at Google - Bangalore
+2. Full Stack Developer at Microsoft - Hyderabad
+3. ML Engineer at Amazon - Chennai
+
+View all recommendations: https://www.linkedin.com/jobs/
+
+You received this email because you're subscribed to job recommendations.
+Unsubscribe: https://www.linkedin.com/unsubscribe/
+
+LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085

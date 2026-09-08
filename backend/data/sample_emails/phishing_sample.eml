@@ -1,0 +1,41 @@
+From: "PayPal Security" <security@paypal-secure.com>
+To: victim@company.com
+Subject: [URGENT] Your PayPal account has been limited
+Date: Tue, 02 Sep 2026 14:23:01 +0530
+Message-ID: <PHISH001@paypal-secure.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: support@paypal-secure.xyz
+Return-Path: <bounces@paypal-secure.com>
+Received: from mail.paypal-secure.com (185.220.101.45) by mx.company.com
+    with ESMTP; Tue, 02 Sep 2026 14:22:58 +0530
+Received: from localhost (localhost [127.0.0.1])
+    by mail.paypal-secure.com (Postfix) with ESMTP id A1B2C3D4E5
+    for <victim@company.com>; Tue, 02 Sep 2026 14:22:55 +0530
+Received: from [45.77.123.89] (helo=mail-proxy.xyz)
+    by mail.paypal-secure.com with SMTP; Tue, 02 Sep 2026 14:22:50 +0530
+Authentication-Results: mx.company.com;
+    spf=fail (domain of paypal-secure.com does not designate 185.220.101.45 as permitted sender)
+    dkim=fail header.d=paypal-secure.com
+    dmarc=fail (p=NONE) header.from=paypal-secure.com
+
+<html>
+<body>
+<div style="background:#f5f5f5;padding:20px;">
+<div style="max-width:600px;margin:0 auto;background:#fff;border-radius:8px;padding:30px;">
+<div style="text-align:center;margin-bottom:20px;">
+<h1 style="color:#003087;font-size:24px;">PayPal</h1>
+</div>
+<p style="color:#333;font-size:16px;">Dear Customer,</p>
+<p style="color:#333;font-size:16px;">We've detected unusual activity on your PayPal account. Your account has been <strong style="color:#cc0000;">limited</strong> due to suspicious login attempts.</p>
+<p style="color:#333;font-size:16px;">To restore full access, please verify your identity within 24 hours or your account will be permanently suspended.</p>
+<div style="text-align:center;margin:30px 0;">
+<a href="https://bit.ly/paypal-verify-2026" style="background:#003087;color:#fff;padding:12px 30px;border-radius:5px;text-decoration:none;font-weight:bold;">Verify My Account</a>
+</div>
+<p style="color:#666;font-size:12px;">This is an automated message. Do not reply to this email.</p>
+<p style="color:#666;font-size:12px;">If you didn't make this request, please secure your account immediately.</p>
+</div>
+</div>
+</body>
+</html>

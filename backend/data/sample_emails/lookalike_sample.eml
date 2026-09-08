@@ -1,0 +1,41 @@
+From: "Microsoft Support" <support@microsoft-secure.xyz>
+To: admin@company.com
+Subject: Your Microsoft 365 subscription will expire tomorrow
+Date: Thu, 04 Sep 2026 16:45:00 +0530
+Message-ID: <LOOK003@microsoft-secure.xyz>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: billing@microsoft-secure.xyz
+Return-Path: <bounce@microsoft-secure.xyz>
+Received: from mail.microsoft-secure.xyz (91.215.85.123) by mx.company.com
+    with ESMTP; Thu, 04 Sep 2026 16:44:55 +0530
+Received: from localhost (localhost [127.0.0.1])
+    by mail.microsoft-secure.xyz (Postfix) with ESMTP id F5G6H7I8J9
+    for <admin@company.com>; Thu, 04 Sep 2026 16:44:50 +0530
+Received: from vps-hosting.net (91.215.85.123)
+    by mail.microsoft-secure.xyz with SMTP; Thu, 04 Sep 2026 16:44:45 +0530
+Authentication-Results: mx.company.com;
+    spf=fail (domain of microsoft-secure.xyz does not designate 91.215.85.123 as permitted sender)
+    dkim=fail header.d=microsoft-secure.xyz
+    dmarc=fail (p=REJECT) header.from=microsoft-secure.xyz
+
+<html>
+<body style="font-family:Segoe UI,sans-serif;">
+<div style="max-width:600px;margin:0 auto;padding:20px;">
+<div style="background:#0078d4;color:white;padding:20px;text-align:center;">
+<h1>Microsoft 365</h1>
+</div>
+<div style="padding:20px;border:1px solid #ddd;">
+<p>Dear Admin,</p>
+<p>Your Microsoft 365 Business Premium subscription for <strong>company.com</strong> will expire <strong>tomorrow</strong>.</p>
+<p>If you don't renew, all your data including emails, files, and Teams conversations will be <strong style="color:red;">permanently deleted</strong>.</p>
+<p>Renew now to avoid data loss:</p>
+<p style="text-align:center;margin:20px 0;">
+<a href="https://tinyurl.com/ms-renew-2026" style="background:#0078d4;color:white;padding:12px 24px;border-radius:4px;text-decoration:none;">Renew Subscription</a>
+</p>
+<p style="color:#666;font-size:12px;">Microsoft Corporation. One Microsoft Way, Redmond, WA 98052</p>
+</div>
+</div>
+</body>
+</html>

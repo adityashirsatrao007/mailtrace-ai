@@ -1,0 +1,34 @@
+From: "Rajesh Kumar" <rkumar@randomhost.in>
+To: accounts@company.com
+Subject: Urgent: Wire Transfer Required - Vendor Payment
+Date: Wed, 03 Sep 2026 09:15:00 +0530
+Message-ID: <BEC002@randomhost.in>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Reply-To: rajesh.kumar.ceo@gmail.com
+Return-Path: <bounces@randomhost.in>
+Received: from mail.randomhost.in (103.45.67.89) by mx.company.com
+    with ESMTPS; Wed, 03 Sep 2026 09:14:55 +0530
+Received: from randomhost.in (103.45.67.89) by mail.randomhost.in
+    with ESMTP; Wed, 03 Sep 2026 09:14:50 +0530
+Authentication-Results: mx.company.com;
+    spf=softfail (domain of randomhost.in does not designate 103.45.67.89 as permitted sender)
+    dkim=none
+    dmarc=none (p=NONE) header.from=randomhost.in
+
+Hi Team,
+
+I need you to process an urgent wire transfer for a vendor payment. The details are below:
+
+Amount: INR 4,75,000
+Account: HDFC Bank, A/C: 50100012345678
+IFSC: HDFC0001234
+Beneficiary: Sharma Trading Co.
+
+This is time-sensitive — please process today before 3 PM. I'm in a meeting and can't take calls.
+
+Thanks,
+Rajesh Kumar
+Director, Operations
+
+Sent from my iPhone
